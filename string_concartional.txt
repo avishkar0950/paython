@@ -1,0 +1,3 @@
+a="hello";
+b="avi";
+print(a+b)
